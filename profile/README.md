@@ -1,4 +1,4 @@
-# Secure, Disposable Temp Email Addresses
+# Secure, Disposable Temp Email API
 
 This is a user-friendly, secure platform designed to help you protect your online privacy. It allows you to create temporary, disposable email addresses that can be used for short-term activities like signing up for websites, receiving verification emails, or avoiding spam. Once your temporary inbox is no longer needed, it expires automatically, ensuring your data remains private.
 
