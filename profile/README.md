@@ -1,12 +1,9 @@
-## Hi there 👋
+# Temp Mail API SDK
 
-<!--
+A collection of SDKs for interacting with the [TempMail.so](https://tempmail.so) temporary email service API. These SDKs allow developers to create and manage temporary email inboxes, retrieve emails, and handle other functionality with ease.  
 
-**Here are some ideas to get you started:**
+## Supported Languages  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Python**  
+- **PHP**  
+- **Node.js**  
