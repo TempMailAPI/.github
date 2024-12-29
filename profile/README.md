@@ -14,4 +14,11 @@ This is a user-friendly, secure platform designed to help you protect your onlin
 - **Storage and Organization:** Save temporary emails for future use, without cluttering your primary inbox.
 - **Automatic Expiry:** Temporary inboxes automatically expire, keeping your data secure.
 
+### Why Choose TempMail.so?
+
+- **Privacy First:** Protect your personal email from spam, unwanted sign-ups, and unnecessary data sharing.
+- **Convenience:** Easily create disposable email addresses for quick use, without requiring sign-up or login.
+- **Secure & Temporary:** Your temporary inbox automatically expires, ensuring your data stays secure and reducing clutter.
+- **Customizable:** Choose from various domains for a more personalized experience and forward emails for easy access.
+
 TempMail.so ensures anonymity, security, and convenience for anyone needing a temporary email address. Visit [TempMail.so](https://tempmail.so) for more information.
