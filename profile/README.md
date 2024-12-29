@@ -1,4 +1,4 @@
-# TempMail.so: Secure, Disposable Email Addresses
+# TempMail.so: Secure, Disposable Temp Email Addresses
 
 ## Protect Your Privacy with Temporary Emails
 TempMail.so offers a simple and effective solution for those seeking privacy and security online. With this service, you can create disposable email addresses to prevent spam and protect your personal inbox.
