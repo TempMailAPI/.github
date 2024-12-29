@@ -1,9 +1,12 @@
-# Temp Mail API SDK
+### TempMail.so: Secure, Disposable Email Addresses
 
-A collection of SDKs for interacting with the [TempMail.so](https://tempmail.so) temporary email service API. These SDKs allow developers to create and manage temporary email inboxes, retrieve emails, and handle other functionality with ease.  
+#### Protect Your Privacy with Temporary Emails
+TempMail.so offers a simple and effective solution for those seeking privacy and security online. With this service, you can create disposable email addresses to prevent spam and protect your personal inbox.
 
-## Supported Languages  
+#### Key Features:
+- **Custom Domains:** Select your preferred domain name for more personalization.
+- **Email Forwarding:** Forward incoming emails to your personal inbox for convenient access.
+- **Storage and Organization:** Save temporary emails for future use, without cluttering your primary inbox.
+- **Automatic Expiry:** Temporary inboxes automatically expire, keeping your data secure.
 
-- **Python**  
-- **PHP**  
-- **Node.js**  
+TempMail.so ensures anonymity, security, and convenience for anyone needing a temporary email address. Visit [TempMail.so](https://tempmail.so) for more information.
